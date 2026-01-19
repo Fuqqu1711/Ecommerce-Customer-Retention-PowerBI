@@ -82,9 +82,10 @@ The dashboard was built using Power BI with a strong emphasis on business storyt
 
 ## ⭐ Let’s Connect
 
-If you found this project useful, feel free to connect me on linked in : https://www.linkedin.com/in/furqaan-panwala-6a316b160/
+IIf you found this project insightful, feel free to share feedback or give this repository a ⭐. 
+Feel free to connect me on linked in : https://www.linkedin.com/in/furqaan-panwala-6a316b160/
 
-* Give this repository a ⭐ on GitHub
+
 * Share feedback for improvement
 
 ---
